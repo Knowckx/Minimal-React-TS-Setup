@@ -8,17 +8,21 @@ You can copy this project for rapid development, or quickly start it to verify s
 
 ## Usage
 
-> git clone github.com/knowckx/Minimal-React-TS-Setup.git
+```shell
+git clone --depth=1 https://github.com/Knowckx/Minimal-React-TS-Setup.git
 
-> npm install
+npm install
 
-> npm start
+npm start
+
+```
+
 
 ![Alt text](doc/image.png)
 
 
 
-# Chinese
+# 中文
 
 不使用`create-react-app`, 也不依赖`react-scripts`, 创建一个最精简的同时包含 `react.js`+`typescript`+`webpack`这三项技术的启动项目。
 
@@ -26,10 +30,12 @@ You can copy this project for rapid development, or quickly start it to verify s
 
 ## 使用方法
 
-> git clone github.com/knowckx/Minimal-React-TS-Setup.git
+```shell
+git clone --depth=1 https://github.com/Knowckx/Minimal-React-TS-Setup.git
 
-> npm install
+npm install
 
-> npm start
+npm start
+```
 
 ![Alt text](doc/image.png)
